@@ -11,22 +11,19 @@ Function:
   new:  (1)計時(分:秒)
   	(2)計分每消除一橫排加一分
 	
-Equipment:
-	LCD begin picture:
-	
-	![](https://drive.google.com/open?id=1wZ_vNRWcHgnmcLVh3ODGFbvtHWmWQ3Xc)
-	
-	LCD playing game's picture:
-	
-	![](https://drive.google.com/open?id=1BCbweiXsUTtLv2BBnYSzwKv-rZ1YCH9N)
-	
-	16-bits LCD to count point:
-	
-	![](https://drive.google.com/open?id=1h_vMtdS_q51zBNLvHl00ida0kJBiBvkP)
-	
-	7 Segment display:
-	
-	![](https://drive.google.com/open?id=1JrivYKviubTfWtBSKkh-ezTMVfwmPKQd) 
+# Equipment:
+>LCD begin picture:
+
+![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/8x8LED_begin.png)	
+>LCD playing game's picture:
+
+![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/8x8LED_game.png)
+>16-bits LED to count point:
+
+![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/16-bitsLED.png)
+>7 Segment display:
+
+![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/Seven-segment.png)
 	
 Video:
 	[![asciicast]()(https://drive.google.com/file/d/1gXK1P33AILLz8ZOSDTH0Jxuuf63_Gglv/view?usp=sharing)
