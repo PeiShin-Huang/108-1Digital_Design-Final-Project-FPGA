@@ -26,4 +26,4 @@ Function:
 ![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/Seven-segment.png)
 	
 Video:
-	[![asciicast]()(https://drive.google.com/file/d/1gXK1P33AILLz8ZOSDTH0Jxuuf63_Gglv/view?usp=sharing)
+	[![asciicast](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/image.png)(https://drive.google.com/file/d/1gXK1P33AILLz8ZOSDTH0Jxuuf63_Gglv/view?usp=sharing)
