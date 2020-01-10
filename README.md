@@ -16,13 +16,13 @@ Equipment:
 	![image](8x8LED_begin.png)
 	
 	LCD playing game's picture:
-	![image]8x8LED_game.png
+	![image](8x8LED_game.png)
 	
 	16-bits LCD to count point
-	![image]16-bitsLED.png
+	![image](16-bitsLED.png)
 	
 	7 Segment display
-	![image]Seven-segment.png
+	![image](Seven-segment.png) 
 	
 Video:
 
