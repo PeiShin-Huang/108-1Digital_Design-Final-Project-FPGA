@@ -11,5 +11,11 @@ Function:
   	(2)計分每消除一橫排加一分
 	
 Equipment:
-
+	LCD begin picture:
+	![image](8x8LED_begin.png)
+	LCD playing game's picture:
+	![image]8x8LED_game.png
+	
 Picture:
+
+8x8LED_game.png
