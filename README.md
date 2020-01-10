@@ -14,19 +14,19 @@ Function:
 Equipment:
 	LCD begin picture:
 	
-	![image](8x8LED_begin.png)
+	![](https://drive.google.com/open?id=1wZ_vNRWcHgnmcLVh3ODGFbvtHWmWQ3Xc)
 	
 	LCD playing game's picture:
 	
-	![image](8x8LED_game.png)
+	![](https://drive.google.com/open?id=1BCbweiXsUTtLv2BBnYSzwKv-rZ1YCH9N)
 	
 	16-bits LCD to count point:
 	
-	![image](16-bitsLED.png)
+	![](https://drive.google.com/open?id=1h_vMtdS_q51zBNLvHl00ida0kJBiBvkP)
 	
 	7 Segment display:
 	
-	![image](Seven-segment.png) 
+	![](https://drive.google.com/open?id=1JrivYKviubTfWtBSKkh-ezTMVfwmPKQd) 
 	
 Video:
-
+	[![asciicast]()(https://drive.google.com/file/d/1gXK1P33AILLz8ZOSDTH0Jxuuf63_Gglv/view?usp=sharing)
