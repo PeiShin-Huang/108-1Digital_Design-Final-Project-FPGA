@@ -11,7 +11,7 @@ Function:
   new:  (1)計時(分:秒)
   	(2)計分每消除一橫排加一分
 	
-# Equipment:
+## Equipment:
 >LCD begin picture:
 
 ![image](https://github.com/PeiShin-Huang/PeiShin-Huang/blob/master/8x8LED_begin.png)	
